@@ -1,0 +1,34 @@
+
+
+[
+    {
+      "title": "Slider Management",
+      "icon": "icon-versions",
+      "sub": {
+        "title": {
+          "Create a New Slider":"add-slider.php",
+          "Slider List":"slider-list.php"
+        }
+      }
+    },
+    {
+      "title": "Service Management",
+      "icon": "icon-cog",
+      "sub": {
+        "title": {
+          "All Service Card List":"service-list.php",
+          "Add a New Service Card":"add-service.php"
+        }
+      }
+    },
+    {
+      "title": "Blog & News Management",
+      "icon": "icon-newspaper",
+      "sub": {
+        "title": {"All News List": "news-list-view.php",
+                  "Add a New News" : "add-news.php"    
+      }
+      }
+    }
+  ]
+  

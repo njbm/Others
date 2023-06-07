@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "MedWeb\\" : "class/"
+        }
+    },
+    "require": {
+        "mpdf/mpdf": "^8.1",
+        "intervention/image": "^2.7"
+    }
+}

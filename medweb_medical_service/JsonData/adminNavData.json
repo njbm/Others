@@ -1,0 +1,88 @@
+
+
+  [
+    {
+      "title": "Patient Entry",
+      "icon": "icon-user-plus",
+      "sub": {
+        "title": {
+          "All Patient List":"patient-list.php",
+          "Add a New Patient":"add-patient.php"
+        }
+      }
+    },
+    {
+      "title": "Bed Allotment",
+      "icon": "icon-enter",
+      "sub": {
+        "title": {"Bed Allotment List": "bed_allotment_list.php",
+                  "Bed Allotment Management" : "bed_management.php"    
+      }
+      }
+    },
+    {
+      "title": "Medical Test",
+      "icon": "icon-lab",
+      "sub": {
+        "title": {
+          "Medical Test Appointment List" : "medicalTest-appoint-list.php",
+          "Medical Test Request" : "medical-test-appointment-list.php",
+          "Add New Test": "add-new-test.php",
+          "All Medical Tests": "medical-test-admin.php",
+          "Medical Test Category": "medical-test-admin.php"
+        }
+      }
+    },
+    {
+      "title": "Test Report",
+      "icon": "icon-files-empty",
+      "sub": {
+        "title": {
+          "Upload Test Report": "test-report upload.php",
+          "See All Test Reports": "test-report-list.php"
+        }
+      }
+    },
+    {
+      "title": "Doctor",
+      "icon": "icon-user-tie",
+      "sub": {
+        "title": {
+          "Add New Doctor": "add-doctor-profile-admin.php",
+          "All Doctors": "doctor-profile-admin.php",
+          "Doctor Category": "doctor-profile-admin.php"
+          }
+      }
+    },
+    {
+      "title": "Appointemnt",
+      "icon": "icon-calendar3",
+      "sub": {
+        "title": {
+          "All Appoinment List": "appointment-list.php",
+          "Appointment Management": "add-appointment.php"
+          }
+      }
+    },
+    {
+      "title": "Ambulance",
+      "icon": "icon-truck",
+      "sub": {
+        "title": {
+          "Ambulance Request":"ambulence-req-check.php",
+          "Ambulance Management":"add-ambulence-admin.php"
+        }
+      }
+    },
+    {
+      "title": "FAQ",
+      "icon": "icon-question4",
+      "sub": {
+        "title": {
+          "FAQ Request":"faq-request-list.php",
+          "FAQ Management":"faq-management.php"
+        }
+      }
+    }
+  ]
+  

@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Medical Test",
+    "icon": "icon-lab",
+    "sub": {
+      "title": {
+        "All Medical Test": "medical-test-user.php",
+        "Find Test By Category": "medical-test-user.php"
+      }
+    }
+  },
+  {
+    "title": "Test Report",
+    "icon": "icon-files-empty",
+    "sub": {
+      "title": {"My Test Report": "my-test-report.php"}
+    }
+  },
+  {
+    "title": "Doctor Category",
+    "icon": "icon-user-tie",
+    "sub": {
+      "title": {
+        "All Doctors":"doctor-profile-user.php",
+        "Find Doctor By Category":"doctor-profile-user.php"
+      }
+    }
+  },
+  {
+    "title": "Appointemnt",
+    "icon": "icon-calendar3",
+    "sub": {
+      "title": {
+        "Make an Appointment":"user_appointment.php",
+         "My Appointment":"my-appointment.php"
+        }
+    }
+  },
+  {
+    "title": "Ambulance",
+    "icon": "icon-truck",
+    "sub": {
+      "title": {
+        "Request for Ambulance":"ambulence-request-user.php",
+        "My Ambulance":"my-ambulence.php"}
+    }
+  }
+]
+
+
